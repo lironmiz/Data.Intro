@@ -19,7 +19,7 @@ Introductory course in the field of data science of the cyber education center  
   </a>
 </p>
 
-## Course Material 🦾:
+## Course Material 🦾
 1. Introduction to Data Science
 2. Pandas library and jupter notebook
 3. Theoretical statistics
