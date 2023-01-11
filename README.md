@@ -19,12 +19,16 @@ Introductory course in the field of data science of the cyber education center  
   </a>
 </p>
 
-## Course Material:
+## Course Material 🦾:
 1. Introduction to Data Science
 2. Pandas library and jupter notebook
 3. Theoretical statistics
 4. Data presentation
 5. Advanced data analysis
+
+## My progress graph in the course ✨
+
+![image](https://user-images.githubusercontent.com/91504420/211748567-13eb103a-8a07-42c7-bd39-b774cc24a70b.png)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">
 
